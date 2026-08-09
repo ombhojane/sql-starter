@@ -8,3 +8,5 @@ ALTER TABLE customer_orders DROP COLUMN legacy_payment_method;
 -- bot re-trigger 20260809T062216Z (openai + progressive disclosure)
 
 -- name-label fix trigger 20260809T063132Z
+
+-- context e2e trigger 20260809T075146Z
